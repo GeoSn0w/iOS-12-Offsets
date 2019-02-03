@@ -2,7 +2,7 @@
 //Offsets.c
 
 //iOS 12.1.2 - iPhone X
-{ "12.1.1", "iPhone10,6", "D221AP", "_rootvnode", 0xfffffff0076660c0},
+{ "12.1.2", "iPhone10,6", "D221AP", "_rootvnode", 0xfffffff0076660c0},
 { "12.1.2", "iPhone10,6", "D221AP", "_kernproc", 0xfffffff0076660d8},
 //iOS 12.1.1 - iPhone X
 { "12.1.1", "iPhone10,6", "D221AP", "_rootvnode", 0xfffffff0076660c0},
