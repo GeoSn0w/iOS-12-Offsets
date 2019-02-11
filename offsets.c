@@ -1,6 +1,6 @@
 //GeoSn0w (C) GeoSn0w (@FCE365) 2019
 //Offsets.c
-
+{ "12.1.1", "iPhone11,6", "D331pAP", "_kernproc", 0xfffffff00913c638},
 //iOS 12.1.2 - iPhone X
 { "12.1.2", "iPhone10,6", "D221AP", "_rootvnode", 0xfffffff0076660c0},
 { "12.1.2", "iPhone10,6", "D221AP", "_kernproc", 0xfffffff0076660d8},
